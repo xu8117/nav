@@ -1,1 +1,1 @@
-[]
+[{"createdAt":1725375306318,"title":"内网","icon":null,"ownVisible":true,"nav":[{"createdAt":1725375356454,"title":"debian","icon":null,"ownVisible":null,"nav":[{"createdAt":1725375367929,"title":"ssh","icon":null,"ownVisible":null,"nav":[{"id":-1725375514616,"name":"ssh","createdAt":1725375487625,"rate":5,"desc":"","top":true,"index":1,"ownVisible":false,"icon":"","url":"cn-jn-lt-plustmp1.natfrp.cloud:45488","urls":{}}]}]}]}]
